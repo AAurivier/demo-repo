@@ -1,0 +1,3 @@
+this is the backup servers git repo
+trying to push this in the github
+internet here is bad
